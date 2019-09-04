@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "X2JConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "--indent --target Locations --source G:\\Locatoins1.xlsx"
+    }
+  }
+}
